@@ -48,12 +48,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/sukisivam29/leetcodeproblems/tree/master/0012-integer-to-roman) |
 | [0043-multiply-strings](https://github.com/sukisivam29/leetcodeproblems/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/sukisivam29/leetcodeproblems/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/sukisivam29/leetcodeproblems/tree/master/0258-add-digits) |
 | [1013-fibonacci-number](https://github.com/sukisivam29/leetcodeproblems/tree/master/1013-fibonacci-number) |
 ## Simulation
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/sukisivam29/leetcodeproblems/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/sukisivam29/leetcodeproblems/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/sukisivam29/leetcodeproblems/tree/master/0258-add-digits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -70,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/sukisivam29/leetcodeproblems/tree/master/0067-add-binary) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/sukisivam29/leetcodeproblems/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
