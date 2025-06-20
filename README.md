@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/sukisivam29/leetcodeproblems/tree/master/0012-integer-to-roman) |
 | [0043-multiply-strings](https://github.com/sukisivam29/leetcodeproblems/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/sukisivam29/leetcodeproblems/tree/master/0058-length-of-last-word) |
 ## Array
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/sukisivam29/leetcodeproblems/tree/master/0012-integer-to-roman) |
 | [0141-linked-list-cycle](https://github.com/sukisivam29/leetcodeproblems/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/sukisivam29/leetcodeproblems/tree/master/0169-majority-element) |
 ## Divide and Conquer
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/sukisivam29/leetcodeproblems/tree/master/0012-integer-to-roman) |
 | [0043-multiply-strings](https://github.com/sukisivam29/leetcodeproblems/tree/master/0043-multiply-strings) |
 | [1013-fibonacci-number](https://github.com/sukisivam29/leetcodeproblems/tree/master/1013-fibonacci-number) |
 ## Simulation
