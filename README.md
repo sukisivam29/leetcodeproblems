@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/sukisivam29/leetcodeproblems/tree/master/0792-binary-search) |
 | [0941-sort-array-by-parity](https://github.com/sukisivam29/leetcodeproblems/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/sukisivam29/leetcodeproblems/tree/master/0948-sort-an-array) |
+| [0958-sort-array-by-parity-ii](https://github.com/sukisivam29/leetcodeproblems/tree/master/0958-sort-array-by-parity-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/sukisivam29/leetcodeproblems/tree/master/0692-top-k-frequent-words) |
 | [0941-sort-array-by-parity](https://github.com/sukisivam29/leetcodeproblems/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/sukisivam29/leetcodeproblems/tree/master/0948-sort-an-array) |
+| [0958-sort-array-by-parity-ii](https://github.com/sukisivam29/leetcodeproblems/tree/master/0958-sort-array-by-parity-ii) |
 ## Counting
 |  |
 | ------- |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sukisivam29/leetcodeproblems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/sukisivam29/leetcodeproblems/tree/master/0141-linked-list-cycle) |
 | [0941-sort-array-by-parity](https://github.com/sukisivam29/leetcodeproblems/tree/master/0941-sort-array-by-parity) |
+| [0958-sort-array-by-parity-ii](https://github.com/sukisivam29/leetcodeproblems/tree/master/0958-sort-array-by-parity-ii) |
 ## Math
 |  |
 | ------- |
