@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0027-remove-element](https://github.com/sukisivam29/leetcodeproblems/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/sukisivam29/leetcodeproblems/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/sukisivam29/leetcodeproblems/tree/master/0053-maximum-subarray) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/sukisivam29/leetcodeproblems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/sukisivam29/leetcodeproblems/tree/master/0169-majority-element) |
 | [0692-top-k-frequent-words](https://github.com/sukisivam29/leetcodeproblems/tree/master/0692-top-k-frequent-words) |
 | [0792-binary-search](https://github.com/sukisivam29/leetcodeproblems/tree/master/0792-binary-search) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sukisivam29/leetcodeproblems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/sukisivam29/leetcodeproblems/tree/master/0027-remove-element) |
 | [0141-linked-list-cycle](https://github.com/sukisivam29/leetcodeproblems/tree/master/0141-linked-list-cycle) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/sukisivam29/leetcodeproblems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0941-sort-array-by-parity](https://github.com/sukisivam29/leetcodeproblems/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/sukisivam29/leetcodeproblems/tree/master/0958-sort-array-by-parity-ii) |
 ## Math
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/sukisivam29/leetcodeproblems/tree/master/0035-search-insert-position) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/sukisivam29/leetcodeproblems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0792-binary-search](https://github.com/sukisivam29/leetcodeproblems/tree/master/0792-binary-search) |
 ## Trie
 |  |
