@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0058-length-of-last-word](https://github.com/sukisivam29/leetcodeproblems/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/sukisivam29/leetcodeproblems/tree/master/0067-add-binary) |
 | [0692-top-k-frequent-words](https://github.com/sukisivam29/leetcodeproblems/tree/master/0692-top-k-frequent-words) |
+| [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/sukisivam29/leetcodeproblems/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 ## Array
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1137-height-checker](https://github.com/sukisivam29/leetcodeproblems/tree/master/1137-height-checker) |
 | [1256-rank-transform-of-an-array](https://github.com/sukisivam29/leetcodeproblems/tree/master/1256-rank-transform-of-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sukisivam29/leetcodeproblems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/sukisivam29/leetcodeproblems/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2159-two-out-of-three](https://github.com/sukisivam29/leetcodeproblems/tree/master/2159-two-out-of-three) |
 ## Hash Table
 |  |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0692-top-k-frequent-words](https://github.com/sukisivam29/leetcodeproblems/tree/master/0692-top-k-frequent-words) |
 | [1256-rank-transform-of-an-array](https://github.com/sukisivam29/leetcodeproblems/tree/master/1256-rank-transform-of-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sukisivam29/leetcodeproblems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/sukisivam29/leetcodeproblems/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2159-two-out-of-three](https://github.com/sukisivam29/leetcodeproblems/tree/master/2159-two-out-of-three) |
 ## Divide and Conquer
 |  |
@@ -57,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0169-majority-element](https://github.com/sukisivam29/leetcodeproblems/tree/master/0169-majority-element) |
 | [0692-top-k-frequent-words](https://github.com/sukisivam29/leetcodeproblems/tree/master/0692-top-k-frequent-words) |
+| [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/sukisivam29/leetcodeproblems/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 ## Linked List
 |  |
 | ------- |
