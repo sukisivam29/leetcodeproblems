@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/sukisivam29/leetcodeproblems/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/sukisivam29/leetcodeproblems/tree/master/0012-integer-to-roman) |
+| [0020-valid-parentheses](https://github.com/sukisivam29/leetcodeproblems/tree/master/0020-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/sukisivam29/leetcodeproblems/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/sukisivam29/leetcodeproblems/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/sukisivam29/leetcodeproblems/tree/master/0067-add-binary) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/sukisivam29/leetcodeproblems/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/sukisivam29/leetcodeproblems/tree/master/0042-trapping-rain-water) |
 ## Monotonic Stack
 |  |
