@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1137-height-checker](https://github.com/sukisivam29/leetcodeproblems/tree/master/1137-height-checker) |
 | [1256-rank-transform-of-an-array](https://github.com/sukisivam29/leetcodeproblems/tree/master/1256-rank-transform-of-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sukisivam29/leetcodeproblems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [2159-two-out-of-three](https://github.com/sukisivam29/leetcodeproblems/tree/master/2159-two-out-of-three) |
 ## Hash Table
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0692-top-k-frequent-words](https://github.com/sukisivam29/leetcodeproblems/tree/master/0692-top-k-frequent-words) |
 | [1256-rank-transform-of-an-array](https://github.com/sukisivam29/leetcodeproblems/tree/master/1256-rank-transform-of-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sukisivam29/leetcodeproblems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [2159-two-out-of-three](https://github.com/sukisivam29/leetcodeproblems/tree/master/2159-two-out-of-three) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/sukisivam29/leetcodeproblems/tree/master/0067-add-binary) |
+| [2159-two-out-of-three](https://github.com/sukisivam29/leetcodeproblems/tree/master/2159-two-out-of-three) |
 ## Number Theory
 |  |
 | ------- |
