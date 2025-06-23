@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sukisivam29/leetcodeproblems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/sukisivam29/leetcodeproblems/tree/master/0141-linked-list-cycle) |
+| [0234-palindrome-linked-list](https://github.com/sukisivam29/leetcodeproblems/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0042-trapping-rain-water](https://github.com/sukisivam29/leetcodeproblems/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/sukisivam29/leetcodeproblems/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sukisivam29/leetcodeproblems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0234-palindrome-linked-list](https://github.com/sukisivam29/leetcodeproblems/tree/master/0234-palindrome-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/sukisivam29/leetcodeproblems/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/sukisivam29/leetcodeproblems/tree/master/0958-sort-array-by-parity-ii) |
 ## Math
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/sukisivam29/leetcodeproblems/tree/master/0050-powx-n) |
+| [0234-palindrome-linked-list](https://github.com/sukisivam29/leetcodeproblems/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/sukisivam29/leetcodeproblems/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -170,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0020-valid-parentheses](https://github.com/sukisivam29/leetcodeproblems/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/sukisivam29/leetcodeproblems/tree/master/0042-trapping-rain-water) |
+| [0234-palindrome-linked-list](https://github.com/sukisivam29/leetcodeproblems/tree/master/0234-palindrome-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
