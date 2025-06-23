@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0043-multiply-strings](https://github.com/sukisivam29/leetcodeproblems/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/sukisivam29/leetcodeproblems/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/sukisivam29/leetcodeproblems/tree/master/0067-add-binary) |
+| [0231-power-of-two](https://github.com/sukisivam29/leetcodeproblems/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/sukisivam29/leetcodeproblems/tree/master/0258-add-digits) |
 | [1013-fibonacci-number](https://github.com/sukisivam29/leetcodeproblems/tree/master/1013-fibonacci-number) |
 ## Simulation
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/sukisivam29/leetcodeproblems/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/sukisivam29/leetcodeproblems/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/sukisivam29/leetcodeproblems/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/sukisivam29/leetcodeproblems/tree/master/1013-fibonacci-number) |
 ## Memoization
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/sukisivam29/leetcodeproblems/tree/master/0067-add-binary) |
+| [0231-power-of-two](https://github.com/sukisivam29/leetcodeproblems/tree/master/0231-power-of-two) |
 | [2159-two-out-of-three](https://github.com/sukisivam29/leetcodeproblems/tree/master/2159-two-out-of-three) |
 ## Number Theory
 |  |
