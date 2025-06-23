@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0007-reverse-integer](https://github.com/sukisivam29/leetcodeproblems/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/sukisivam29/leetcodeproblems/tree/master/0012-integer-to-roman) |
 | [0043-multiply-strings](https://github.com/sukisivam29/leetcodeproblems/tree/master/0043-multiply-strings) |
+| [0050-powx-n](https://github.com/sukisivam29/leetcodeproblems/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/sukisivam29/leetcodeproblems/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/sukisivam29/leetcodeproblems/tree/master/0258-add-digits) |
 | [1013-fibonacci-number](https://github.com/sukisivam29/leetcodeproblems/tree/master/1013-fibonacci-number) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/sukisivam29/leetcodeproblems/tree/master/0050-powx-n) |
 | [1013-fibonacci-number](https://github.com/sukisivam29/leetcodeproblems/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
