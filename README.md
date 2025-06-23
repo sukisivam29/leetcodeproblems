@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0067-add-binary](https://github.com/sukisivam29/leetcodeproblems/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/sukisivam29/leetcodeproblems/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/sukisivam29/leetcodeproblems/tree/master/0258-add-digits) |
+| [0367-valid-perfect-square](https://github.com/sukisivam29/leetcodeproblems/tree/master/0367-valid-perfect-square) |
 | [1013-fibonacci-number](https://github.com/sukisivam29/leetcodeproblems/tree/master/1013-fibonacci-number) |
 ## Simulation
 |  |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0004-median-of-two-sorted-arrays](https://github.com/sukisivam29/leetcodeproblems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/sukisivam29/leetcodeproblems/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sukisivam29/leetcodeproblems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0367-valid-perfect-square](https://github.com/sukisivam29/leetcodeproblems/tree/master/0367-valid-perfect-square) |
 | [0792-binary-search](https://github.com/sukisivam29/leetcodeproblems/tree/master/0792-binary-search) |
 ## Trie
 |  |
