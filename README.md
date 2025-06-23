@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0027-remove-element](https://github.com/sukisivam29/leetcodeproblems/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/sukisivam29/leetcodeproblems/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/sukisivam29/leetcodeproblems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/sukisivam29/leetcodeproblems/tree/master/0053-maximum-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sukisivam29/leetcodeproblems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/sukisivam29/leetcodeproblems/tree/master/0169-majority-element) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sukisivam29/leetcodeproblems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/sukisivam29/leetcodeproblems/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/sukisivam29/leetcodeproblems/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/sukisivam29/leetcodeproblems/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sukisivam29/leetcodeproblems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0941-sort-array-by-parity](https://github.com/sukisivam29/leetcodeproblems/tree/master/0941-sort-array-by-parity) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/sukisivam29/leetcodeproblems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/sukisivam29/leetcodeproblems/tree/master/0053-maximum-subarray) |
 | [1013-fibonacci-number](https://github.com/sukisivam29/leetcodeproblems/tree/master/1013-fibonacci-number) |
 | [1020-longest-turbulent-subarray](https://github.com/sukisivam29/leetcodeproblems/tree/master/1020-longest-turbulent-subarray) |
@@ -155,4 +158,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1020-longest-turbulent-subarray](https://github.com/sukisivam29/leetcodeproblems/tree/master/1020-longest-turbulent-subarray) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/sukisivam29/leetcodeproblems/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/sukisivam29/leetcodeproblems/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
