@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0392-is-subsequence](https://github.com/sukisivam29/leetcodeproblems/tree/master/0392-is-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/sukisivam29/leetcodeproblems/tree/master/0692-top-k-frequent-words) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/sukisivam29/leetcodeproblems/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
+| [2727-number-of-senior-citizens](https://github.com/sukisivam29/leetcodeproblems/tree/master/2727-number-of-senior-citizens) |
 ## Array
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sukisivam29/leetcodeproblems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/sukisivam29/leetcodeproblems/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2159-two-out-of-three](https://github.com/sukisivam29/leetcodeproblems/tree/master/2159-two-out-of-three) |
+| [2727-number-of-senior-citizens](https://github.com/sukisivam29/leetcodeproblems/tree/master/2727-number-of-senior-citizens) |
 ## Hash Table
 |  |
 | ------- |
