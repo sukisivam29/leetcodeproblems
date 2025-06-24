@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0965-unique-email-addresses](https://github.com/sukisivam29/leetcodeproblems/tree/master/0965-unique-email-addresses) |
 | [1524-string-matching-in-an-array](https://github.com/sukisivam29/leetcodeproblems/tree/master/1524-string-matching-in-an-array) |
 | [1660-thousand-separator](https://github.com/sukisivam29/leetcodeproblems/tree/master/1660-thousand-separator) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/sukisivam29/leetcodeproblems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/sukisivam29/leetcodeproblems/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2727-number-of-senior-citizens](https://github.com/sukisivam29/leetcodeproblems/tree/master/2727-number-of-senior-citizens) |
 ## Array
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1256-rank-transform-of-an-array](https://github.com/sukisivam29/leetcodeproblems/tree/master/1256-rank-transform-of-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sukisivam29/leetcodeproblems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1524-string-matching-in-an-array](https://github.com/sukisivam29/leetcodeproblems/tree/master/1524-string-matching-in-an-array) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/sukisivam29/leetcodeproblems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/sukisivam29/leetcodeproblems/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2159-two-out-of-three](https://github.com/sukisivam29/leetcodeproblems/tree/master/2159-two-out-of-three) |
 | [2727-number-of-senior-citizens](https://github.com/sukisivam29/leetcodeproblems/tree/master/2727-number-of-senior-citizens) |
