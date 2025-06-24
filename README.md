@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sukisivam29/leetcodeproblems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/sukisivam29/leetcodeproblems/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/sukisivam29/leetcodeproblems/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/sukisivam29/leetcodeproblems/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/sukisivam29/leetcodeproblems/tree/master/0042-trapping-rain-water) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/sukisivam29/leetcodeproblems/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sukisivam29/leetcodeproblems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/sukisivam29/leetcodeproblems/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/sukisivam29/leetcodeproblems/tree/master/0042-trapping-rain-water) |
@@ -212,4 +214,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1524-string-matching-in-an-array](https://github.com/sukisivam29/leetcodeproblems/tree/master/1524-string-matching-in-an-array) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/sukisivam29/leetcodeproblems/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
