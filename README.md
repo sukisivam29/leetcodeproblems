@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0067-add-binary](https://github.com/sukisivam29/leetcodeproblems/tree/master/0067-add-binary) |
 | [0392-is-subsequence](https://github.com/sukisivam29/leetcodeproblems/tree/master/0392-is-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/sukisivam29/leetcodeproblems/tree/master/0692-top-k-frequent-words) |
+| [0965-unique-email-addresses](https://github.com/sukisivam29/leetcodeproblems/tree/master/0965-unique-email-addresses) |
 | [1524-string-matching-in-an-array](https://github.com/sukisivam29/leetcodeproblems/tree/master/1524-string-matching-in-an-array) |
 | [1660-thousand-separator](https://github.com/sukisivam29/leetcodeproblems/tree/master/1660-thousand-separator) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/sukisivam29/leetcodeproblems/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0941-sort-array-by-parity](https://github.com/sukisivam29/leetcodeproblems/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/sukisivam29/leetcodeproblems/tree/master/0948-sort-an-array) |
 | [0958-sort-array-by-parity-ii](https://github.com/sukisivam29/leetcodeproblems/tree/master/0958-sort-array-by-parity-ii) |
+| [0965-unique-email-addresses](https://github.com/sukisivam29/leetcodeproblems/tree/master/0965-unique-email-addresses) |
 | [1020-longest-turbulent-subarray](https://github.com/sukisivam29/leetcodeproblems/tree/master/1020-longest-turbulent-subarray) |
 | [1137-height-checker](https://github.com/sukisivam29/leetcodeproblems/tree/master/1137-height-checker) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/sukisivam29/leetcodeproblems/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0141-linked-list-cycle](https://github.com/sukisivam29/leetcodeproblems/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/sukisivam29/leetcodeproblems/tree/master/0169-majority-element) |
 | [0692-top-k-frequent-words](https://github.com/sukisivam29/leetcodeproblems/tree/master/0692-top-k-frequent-words) |
+| [0965-unique-email-addresses](https://github.com/sukisivam29/leetcodeproblems/tree/master/0965-unique-email-addresses) |
 | [1256-rank-transform-of-an-array](https://github.com/sukisivam29/leetcodeproblems/tree/master/1256-rank-transform-of-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sukisivam29/leetcodeproblems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/sukisivam29/leetcodeproblems/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
