@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0035-search-insert-position](https://github.com/sukisivam29/leetcodeproblems/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/sukisivam29/leetcodeproblems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/sukisivam29/leetcodeproblems/tree/master/0053-maximum-subarray) |
+| [0088-merge-sorted-array](https://github.com/sukisivam29/leetcodeproblems/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sukisivam29/leetcodeproblems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/sukisivam29/leetcodeproblems/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/sukisivam29/leetcodeproblems/tree/master/0238-product-of-array-except-self) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/sukisivam29/leetcodeproblems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/sukisivam29/leetcodeproblems/tree/master/0169-majority-element) |
 | [0692-top-k-frequent-words](https://github.com/sukisivam29/leetcodeproblems/tree/master/0692-top-k-frequent-words) |
 | [0941-sort-array-by-parity](https://github.com/sukisivam29/leetcodeproblems/tree/master/0941-sort-array-by-parity) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sukisivam29/leetcodeproblems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/sukisivam29/leetcodeproblems/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/sukisivam29/leetcodeproblems/tree/master/0042-trapping-rain-water) |
+| [0088-merge-sorted-array](https://github.com/sukisivam29/leetcodeproblems/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/sukisivam29/leetcodeproblems/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sukisivam29/leetcodeproblems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/sukisivam29/leetcodeproblems/tree/master/0234-palindrome-linked-list) |
