@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0958-sort-array-by-parity-ii](https://github.com/sukisivam29/leetcodeproblems/tree/master/0958-sort-array-by-parity-ii) |
 | [1020-longest-turbulent-subarray](https://github.com/sukisivam29/leetcodeproblems/tree/master/1020-longest-turbulent-subarray) |
 | [1137-height-checker](https://github.com/sukisivam29/leetcodeproblems/tree/master/1137-height-checker) |
+| [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/sukisivam29/leetcodeproblems/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1256-rank-transform-of-an-array](https://github.com/sukisivam29/leetcodeproblems/tree/master/1256-rank-transform-of-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sukisivam29/leetcodeproblems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/sukisivam29/leetcodeproblems/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
