@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1137-height-checker](https://github.com/sukisivam29/leetcodeproblems/tree/master/1137-height-checker) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/sukisivam29/leetcodeproblems/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1256-rank-transform-of-an-array](https://github.com/sukisivam29/leetcodeproblems/tree/master/1256-rank-transform-of-an-array) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/sukisivam29/leetcodeproblems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sukisivam29/leetcodeproblems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1524-string-matching-in-an-array](https://github.com/sukisivam29/leetcodeproblems/tree/master/1524-string-matching-in-an-array) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/sukisivam29/leetcodeproblems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0258-add-digits](https://github.com/sukisivam29/leetcodeproblems/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/sukisivam29/leetcodeproblems/tree/master/0367-valid-perfect-square) |
 | [1013-fibonacci-number](https://github.com/sukisivam29/leetcodeproblems/tree/master/1013-fibonacci-number) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/sukisivam29/leetcodeproblems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Simulation
 |  |
 | ------- |
