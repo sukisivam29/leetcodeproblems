@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/sukisivam29/leetcodeproblems/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2159-two-out-of-three](https://github.com/sukisivam29/leetcodeproblems/tree/master/2159-two-out-of-three) |
 | [2727-number-of-senior-citizens](https://github.com/sukisivam29/leetcodeproblems/tree/master/2727-number-of-senior-citizens) |
+| [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/sukisivam29/leetcodeproblems/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Hash Table
 |  |
 | ------- |
