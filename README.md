@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0367-valid-perfect-square](https://github.com/sukisivam29/leetcodeproblems/tree/master/0367-valid-perfect-square) |
 | [1013-fibonacci-number](https://github.com/sukisivam29/leetcodeproblems/tree/master/1013-fibonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/sukisivam29/leetcodeproblems/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [2998-count-symmetric-integers](https://github.com/sukisivam29/leetcodeproblems/tree/master/2998-count-symmetric-integers) |
 ## Simulation
 |  |
 | ------- |
@@ -224,4 +225,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sukisivam29/leetcodeproblems/tree/master/0011-container-with-most-water) |
+## Enumeration
+|  |
+| ------- |
+| [2998-count-symmetric-integers](https://github.com/sukisivam29/leetcodeproblems/tree/master/2998-count-symmetric-integers) |
 <!---LeetCode Topics End-->
