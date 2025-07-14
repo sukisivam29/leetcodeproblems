@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sukisivam29/leetcodeproblems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/sukisivam29/leetcodeproblems/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/sukisivam29/leetcodeproblems/tree/master/0234-palindrome-linked-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sukisivam29/leetcodeproblems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Two Pointers
 |  |
 | ------- |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0258-add-digits](https://github.com/sukisivam29/leetcodeproblems/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/sukisivam29/leetcodeproblems/tree/master/0367-valid-perfect-square) |
 | [1013-fibonacci-number](https://github.com/sukisivam29/leetcodeproblems/tree/master/1013-fibonacci-number) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sukisivam29/leetcodeproblems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/sukisivam29/leetcodeproblems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2998-count-symmetric-integers](https://github.com/sukisivam29/leetcodeproblems/tree/master/2998-count-symmetric-integers) |
 ## Simulation
