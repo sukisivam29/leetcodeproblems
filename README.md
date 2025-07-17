@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/sukisivam29/leetcodeproblems/tree/master/0100-same-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sukisivam29/leetcodeproblems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/sukisivam29/leetcodeproblems/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sukisivam29/leetcodeproblems/tree/master/0144-binary-tree-preorder-traversal) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/sukisivam29/leetcodeproblems/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/sukisivam29/leetcodeproblems/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sukisivam29/leetcodeproblems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sukisivam29/leetcodeproblems/tree/master/0145-binary-tree-postorder-traversal) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/sukisivam29/leetcodeproblems/tree/master/0100-same-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sukisivam29/leetcodeproblems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/sukisivam29/leetcodeproblems/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sukisivam29/leetcodeproblems/tree/master/0144-binary-tree-preorder-traversal) |
@@ -275,4 +278,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [0783-search-in-a-binary-search-tree](https://github.com/sukisivam29/leetcodeproblems/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/sukisivam29/leetcodeproblems/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0933-increasing-order-search-tree](https://github.com/sukisivam29/leetcodeproblems/tree/master/0933-increasing-order-search-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/sukisivam29/leetcodeproblems/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
