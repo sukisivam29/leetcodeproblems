@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/sukisivam29/leetcodeproblems/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/sukisivam29/leetcodeproblems/tree/master/2727-number-of-senior-citizens) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/sukisivam29/leetcodeproblems/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
+| [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/sukisivam29/leetcodeproblems/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/sukisivam29/leetcodeproblems/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Hash Table
 |  |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1013-fibonacci-number](https://github.com/sukisivam29/leetcodeproblems/tree/master/1013-fibonacci-number) |
 | [1020-longest-turbulent-subarray](https://github.com/sukisivam29/leetcodeproblems/tree/master/1020-longest-turbulent-subarray) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/sukisivam29/leetcodeproblems/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
+| [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/sukisivam29/leetcodeproblems/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 ## Recursion
 |  |
 | ------- |
