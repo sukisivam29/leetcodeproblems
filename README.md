@@ -274,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0783-search-in-a-binary-search-tree](https://github.com/sukisivam29/leetcodeproblems/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/sukisivam29/leetcodeproblems/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0933-increasing-order-search-tree](https://github.com/sukisivam29/leetcodeproblems/tree/master/0933-increasing-order-search-tree) |
+| [0975-range-sum-of-bst](https://github.com/sukisivam29/leetcodeproblems/tree/master/0975-range-sum-of-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0145-binary-tree-postorder-traversal](https://github.com/sukisivam29/leetcodeproblems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sukisivam29/leetcodeproblems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0933-increasing-order-search-tree](https://github.com/sukisivam29/leetcodeproblems/tree/master/0933-increasing-order-search-tree) |
+| [0975-range-sum-of-bst](https://github.com/sukisivam29/leetcodeproblems/tree/master/0975-range-sum-of-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0783-search-in-a-binary-search-tree](https://github.com/sukisivam29/leetcodeproblems/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/sukisivam29/leetcodeproblems/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0933-increasing-order-search-tree](https://github.com/sukisivam29/leetcodeproblems/tree/master/0933-increasing-order-search-tree) |
+| [0975-range-sum-of-bst](https://github.com/sukisivam29/leetcodeproblems/tree/master/0975-range-sum-of-bst) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -305,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0783-search-in-a-binary-search-tree](https://github.com/sukisivam29/leetcodeproblems/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/sukisivam29/leetcodeproblems/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0933-increasing-order-search-tree](https://github.com/sukisivam29/leetcodeproblems/tree/master/0933-increasing-order-search-tree) |
+| [0975-range-sum-of-bst](https://github.com/sukisivam29/leetcodeproblems/tree/master/0975-range-sum-of-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
