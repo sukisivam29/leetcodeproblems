@@ -78,12 +78,14 @@ A collection of LeetCode questions to ace the coding interview!
 | [0004-median-of-two-sorted-arrays](https://github.com/sukisivam29/leetcodeproblems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/sukisivam29/leetcodeproblems/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sukisivam29/leetcodeproblems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/sukisivam29/leetcodeproblems/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/sukisivam29/leetcodeproblems/tree/master/0169-majority-element) |
 | [0948-sort-an-array](https://github.com/sukisivam29/leetcodeproblems/tree/master/0948-sort-an-array) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/sukisivam29/leetcodeproblems/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/sukisivam29/leetcodeproblems/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/sukisivam29/leetcodeproblems/tree/master/0169-majority-element) |
 | [0692-top-k-frequent-words](https://github.com/sukisivam29/leetcodeproblems/tree/master/0692-top-k-frequent-words) |
 | [0941-sort-array-by-parity](https://github.com/sukisivam29/leetcodeproblems/tree/master/0941-sort-array-by-parity) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sukisivam29/leetcodeproblems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/sukisivam29/leetcodeproblems/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/sukisivam29/leetcodeproblems/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/sukisivam29/leetcodeproblems/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/sukisivam29/leetcodeproblems/tree/master/0237-delete-node-in-a-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sukisivam29/leetcodeproblems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -116,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0088-merge-sorted-array](https://github.com/sukisivam29/leetcodeproblems/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/sukisivam29/leetcodeproblems/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/sukisivam29/leetcodeproblems/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/sukisivam29/leetcodeproblems/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sukisivam29/leetcodeproblems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/sukisivam29/leetcodeproblems/tree/master/0234-palindrome-linked-list) |
 | [0392-is-subsequence](https://github.com/sukisivam29/leetcodeproblems/tree/master/0392-is-subsequence) |
@@ -202,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/sukisivam29/leetcodeproblems/tree/master/0148-sort-list) |
 | [0948-sort-an-array](https://github.com/sukisivam29/leetcodeproblems/tree/master/0948-sort-an-array) |
 ## Radix Sort
 |  |
