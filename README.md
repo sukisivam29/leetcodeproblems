@@ -336,4 +336,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [0101-symmetric-tree](https://github.com/sukisivam29/leetcodeproblems/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sukisivam29/leetcodeproblems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/sukisivam29/leetcodeproblems/tree/master/0111-minimum-depth-of-binary-tree) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/sukisivam29/leetcodeproblems/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
