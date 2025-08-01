@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0067-add-binary](https://github.com/sukisivam29/leetcodeproblems/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/sukisivam29/leetcodeproblems/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/sukisivam29/leetcodeproblems/tree/master/0392-is-subsequence) |
+| [0415-add-strings](https://github.com/sukisivam29/leetcodeproblems/tree/master/0415-add-strings) |
 | [0692-top-k-frequent-words](https://github.com/sukisivam29/leetcodeproblems/tree/master/0692-top-k-frequent-words) |
 | [0965-unique-email-addresses](https://github.com/sukisivam29/leetcodeproblems/tree/master/0965-unique-email-addresses) |
 | [1524-string-matching-in-an-array](https://github.com/sukisivam29/leetcodeproblems/tree/master/1524-string-matching-in-an-array) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0231-power-of-two](https://github.com/sukisivam29/leetcodeproblems/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/sukisivam29/leetcodeproblems/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/sukisivam29/leetcodeproblems/tree/master/0367-valid-perfect-square) |
+| [0415-add-strings](https://github.com/sukisivam29/leetcodeproblems/tree/master/0415-add-strings) |
 | [1013-fibonacci-number](https://github.com/sukisivam29/leetcodeproblems/tree/master/1013-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sukisivam29/leetcodeproblems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/sukisivam29/leetcodeproblems/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0043-multiply-strings](https://github.com/sukisivam29/leetcodeproblems/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/sukisivam29/leetcodeproblems/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/sukisivam29/leetcodeproblems/tree/master/0258-add-digits) |
+| [0415-add-strings](https://github.com/sukisivam29/leetcodeproblems/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/sukisivam29/leetcodeproblems/tree/master/0682-baseball-game) |
 | [2048-build-array-from-permutation](https://github.com/sukisivam29/leetcodeproblems/tree/master/2048-build-array-from-permutation) |
 ## Dynamic Programming
