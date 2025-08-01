@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0070-climbing-stairs](https://github.com/sukisivam29/leetcodeproblems/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/sukisivam29/leetcodeproblems/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/sukisivam29/leetcodeproblems/tree/master/0258-add-digits) |
+| [0342-power-of-four](https://github.com/sukisivam29/leetcodeproblems/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/sukisivam29/leetcodeproblems/tree/master/0367-valid-perfect-square) |
 | [0415-add-strings](https://github.com/sukisivam29/leetcodeproblems/tree/master/0415-add-strings) |
 | [1013-fibonacci-number](https://github.com/sukisivam29/leetcodeproblems/tree/master/1013-fibonacci-number) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0050-powx-n](https://github.com/sukisivam29/leetcodeproblems/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/sukisivam29/leetcodeproblems/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/sukisivam29/leetcodeproblems/tree/master/0234-palindrome-linked-list) |
+| [0342-power-of-four](https://github.com/sukisivam29/leetcodeproblems/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/sukisivam29/leetcodeproblems/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0067-add-binary](https://github.com/sukisivam29/leetcodeproblems/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/sukisivam29/leetcodeproblems/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/sukisivam29/leetcodeproblems/tree/master/0342-power-of-four) |
 | [2159-two-out-of-three](https://github.com/sukisivam29/leetcodeproblems/tree/master/2159-two-out-of-three) |
 ## Number Theory
 |  |
