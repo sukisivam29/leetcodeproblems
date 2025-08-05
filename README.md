@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/sukisivam29/leetcodeproblems/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/sukisivam29/leetcodeproblems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/sukisivam29/leetcodeproblems/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
+| [2316-count-hills-and-valleys-in-an-array](https://github.com/sukisivam29/leetcodeproblems/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/sukisivam29/leetcodeproblems/tree/master/2727-number-of-senior-citizens) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/sukisivam29/leetcodeproblems/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/sukisivam29/leetcodeproblems/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
