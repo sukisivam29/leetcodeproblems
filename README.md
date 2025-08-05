@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/sukisivam29/leetcodeproblems/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2159-two-out-of-three](https://github.com/sukisivam29/leetcodeproblems/tree/master/2159-two-out-of-three) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/sukisivam29/leetcodeproblems/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/sukisivam29/leetcodeproblems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/sukisivam29/leetcodeproblems/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/sukisivam29/leetcodeproblems/tree/master/2727-number-of-senior-citizens) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/sukisivam29/leetcodeproblems/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sukisivam29/leetcodeproblems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/sukisivam29/leetcodeproblems/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2159-two-out-of-three](https://github.com/sukisivam29/leetcodeproblems/tree/master/2159-two-out-of-three) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/sukisivam29/leetcodeproblems/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1137-height-checker](https://github.com/sukisivam29/leetcodeproblems/tree/master/1137-height-checker) |
 | [1256-rank-transform-of-an-array](https://github.com/sukisivam29/leetcodeproblems/tree/master/1256-rank-transform-of-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sukisivam29/leetcodeproblems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/sukisivam29/leetcodeproblems/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Counting
 |  |
 | ------- |
@@ -167,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0415-add-strings](https://github.com/sukisivam29/leetcodeproblems/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/sukisivam29/leetcodeproblems/tree/master/0682-baseball-game) |
 | [2048-build-array-from-permutation](https://github.com/sukisivam29/leetcodeproblems/tree/master/2048-build-array-from-permutation) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/sukisivam29/leetcodeproblems/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Dynamic Programming
 |  |
 | ------- |
