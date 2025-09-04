@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sukisivam29/leetcodeproblems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/sukisivam29/leetcodeproblems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2998-count-symmetric-integers](https://github.com/sukisivam29/leetcodeproblems/tree/master/2998-count-symmetric-integers) |
+| [3830-find-closest-person](https://github.com/sukisivam29/leetcodeproblems/tree/master/3830-find-closest-person) |
 ## Simulation
 |  |
 | ------- |
