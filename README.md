@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1524-string-matching-in-an-array](https://github.com/sukisivam29/leetcodeproblems/tree/master/1524-string-matching-in-an-array) |
 | [1660-thousand-separator](https://github.com/sukisivam29/leetcodeproblems/tree/master/1660-thousand-separator) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/sukisivam29/leetcodeproblems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1894-merge-strings-alternately](https://github.com/sukisivam29/leetcodeproblems/tree/master/1894-merge-strings-alternately) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/sukisivam29/leetcodeproblems/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2727-number-of-senior-citizens](https://github.com/sukisivam29/leetcodeproblems/tree/master/2727-number-of-senior-citizens) |
 | [3396-valid-word](https://github.com/sukisivam29/leetcodeproblems/tree/master/3396-valid-word) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0392-is-subsequence](https://github.com/sukisivam29/leetcodeproblems/tree/master/0392-is-subsequence) |
 | [0941-sort-array-by-parity](https://github.com/sukisivam29/leetcodeproblems/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/sukisivam29/leetcodeproblems/tree/master/0958-sort-array-by-parity-ii) |
+| [1894-merge-strings-alternately](https://github.com/sukisivam29/leetcodeproblems/tree/master/1894-merge-strings-alternately) |
 ## Math
 |  |
 | ------- |
