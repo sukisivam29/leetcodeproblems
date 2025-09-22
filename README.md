@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2274-keep-multiplying-found-values-by-two](https://github.com/sukisivam29/leetcodeproblems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/sukisivam29/leetcodeproblems/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/sukisivam29/leetcodeproblems/tree/master/2316-count-hills-and-valleys-in-an-array) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/sukisivam29/leetcodeproblems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2727-number-of-senior-citizens](https://github.com/sukisivam29/leetcodeproblems/tree/master/2727-number-of-senior-citizens) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/sukisivam29/leetcodeproblems/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/sukisivam29/leetcodeproblems/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/sukisivam29/leetcodeproblems/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2159-two-out-of-three](https://github.com/sukisivam29/leetcodeproblems/tree/master/2159-two-out-of-three) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/sukisivam29/leetcodeproblems/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/sukisivam29/leetcodeproblems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0941-sort-array-by-parity](https://github.com/sukisivam29/leetcodeproblems/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/sukisivam29/leetcodeproblems/tree/master/0958-sort-array-by-parity-ii) |
 | [1894-merge-strings-alternately](https://github.com/sukisivam29/leetcodeproblems/tree/master/1894-merge-strings-alternately) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/sukisivam29/leetcodeproblems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Math
 |  |
 | ------- |
