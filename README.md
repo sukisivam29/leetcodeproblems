@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sukisivam29/leetcodeproblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sukisivam29/leetcodeproblems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/sukisivam29/leetcodeproblems/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/sukisivam29/leetcodeproblems/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/sukisivam29/leetcodeproblems/tree/master/0238-product-of-array-except-self) |
 | [0682-baseball-game](https://github.com/sukisivam29/leetcodeproblems/tree/master/0682-baseball-game) |
 | [0692-top-k-frequent-words](https://github.com/sukisivam29/leetcodeproblems/tree/master/0692-top-k-frequent-words) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0141-linked-list-cycle](https://github.com/sukisivam29/leetcodeproblems/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/sukisivam29/leetcodeproblems/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sukisivam29/leetcodeproblems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/sukisivam29/leetcodeproblems/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/sukisivam29/leetcodeproblems/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/sukisivam29/leetcodeproblems/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/sukisivam29/leetcodeproblems/tree/master/0392-is-subsequence) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0050-powx-n](https://github.com/sukisivam29/leetcodeproblems/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/sukisivam29/leetcodeproblems/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/sukisivam29/leetcodeproblems/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/sukisivam29/leetcodeproblems/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/sukisivam29/leetcodeproblems/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/sukisivam29/leetcodeproblems/tree/master/0258-add-digits) |
 | [0342-power-of-four](https://github.com/sukisivam29/leetcodeproblems/tree/master/0342-power-of-four) |
