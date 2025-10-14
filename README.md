@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1013-fibonacci-number](https://github.com/sukisivam29/leetcodeproblems/tree/master/1013-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sukisivam29/leetcodeproblems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/sukisivam29/leetcodeproblems/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1642-water-bottles](https://github.com/sukisivam29/leetcodeproblems/tree/master/1642-water-bottles) |
 | [2998-count-symmetric-integers](https://github.com/sukisivam29/leetcodeproblems/tree/master/2998-count-symmetric-integers) |
 | [3830-find-closest-person](https://github.com/sukisivam29/leetcodeproblems/tree/master/3830-find-closest-person) |
 ## Simulation
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0258-add-digits](https://github.com/sukisivam29/leetcodeproblems/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/sukisivam29/leetcodeproblems/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/sukisivam29/leetcodeproblems/tree/master/0682-baseball-game) |
+| [1642-water-bottles](https://github.com/sukisivam29/leetcodeproblems/tree/master/1642-water-bottles) |
 | [2048-build-array-from-permutation](https://github.com/sukisivam29/leetcodeproblems/tree/master/2048-build-array-from-permutation) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sukisivam29/leetcodeproblems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/sukisivam29/leetcodeproblems/tree/master/2274-keep-multiplying-found-values-by-two) |
