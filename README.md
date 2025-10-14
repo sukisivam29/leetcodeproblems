@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/sukisivam29/leetcodeproblems/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/sukisivam29/leetcodeproblems/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/sukisivam29/leetcodeproblems/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2551-apply-operations-to-an-array](https://github.com/sukisivam29/leetcodeproblems/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/sukisivam29/leetcodeproblems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2727-number-of-senior-citizens](https://github.com/sukisivam29/leetcodeproblems/tree/master/2727-number-of-senior-citizens) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/sukisivam29/leetcodeproblems/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1894-merge-strings-alternately](https://github.com/sukisivam29/leetcodeproblems/tree/master/1894-merge-strings-alternately) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sukisivam29/leetcodeproblems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/sukisivam29/leetcodeproblems/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2551-apply-operations-to-an-array](https://github.com/sukisivam29/leetcodeproblems/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/sukisivam29/leetcodeproblems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Math
 |  |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2048-build-array-from-permutation](https://github.com/sukisivam29/leetcodeproblems/tree/master/2048-build-array-from-permutation) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sukisivam29/leetcodeproblems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/sukisivam29/leetcodeproblems/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2551-apply-operations-to-an-array](https://github.com/sukisivam29/leetcodeproblems/tree/master/2551-apply-operations-to-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
